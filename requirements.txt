@@ -1,0 +1,10 @@
+openai
+ollama
+transformers
+datasets
+pandas 
+tqdm 
+aiohttp
+jupyter
+notebook
+python-dotenv
