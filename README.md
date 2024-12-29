@@ -77,7 +77,7 @@ OPENAI_API_KEY=<your_openai_api_key>
 
 ## Creating Dataset
 
-Please check README file under `dataset_creation_pipeline` folder for detailed steps.
+Please check README file under `dataset_creation_pipeline` folder for detailed steps - **Usage Instructions**.
 
 ---
 
