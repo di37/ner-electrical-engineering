@@ -1,5 +1,3 @@
-# README
-
 ## **Folder - `prompt`**
 
 The `prompt` folder contains the file `prompt.py`, which defines the system and user prompts used for generating the NER dataset. These prompts are designed to elicit unique and diverse sentences that cover various aspects of electrical engineering, such as:
